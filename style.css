@@ -10,6 +10,11 @@ html{
     display: inline;
     text-align: center;
 }
+.liens_exemple{
+    text-align: center;
+    display: block;
+    font-style: italic;
+}
 
 body {
     margin: 0;
