@@ -9,6 +9,7 @@ html{
 .mentions{
     display: inline;
     text-align: center;
+    margin: 2%;
 }
 .liens_exemple{
     text-align: center;
