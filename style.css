@@ -8,6 +8,8 @@ blockquote p{
 }
 blockquote footer{
     font-size: 90%;
+    color: #575757!important;
+
 }
 .mentions{
     display: inline;
