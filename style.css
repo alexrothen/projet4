@@ -1,7 +1,9 @@
 html{
     font-size: 15px;
 }
-
+.h2__over{
+    position: relative;
+}
 blockquote p{
     font-size: 1.4rem;
     font-style: italic;
@@ -855,6 +857,7 @@ h4 {
 }
 
 .bg-banniere {
+    position: relative;
     background-image: url("img/la-chouette-agence-banniere.jpg");
 }
 
