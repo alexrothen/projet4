@@ -13,6 +13,9 @@ blockquote footer{
     color: #575757!important;
 
 }
+blockquote{
+    border-left: none;
+}
 .mentions{
     display: inline;
     text-align: center;
